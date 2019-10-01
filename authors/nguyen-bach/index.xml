@@ -2,23 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nguyen Bach</title>
-    <link>https://nguyenbh.github.io//authors/nguyen-bach/</link>
-      <atom:link href="https://nguyenbh.github.io//authors/nguyen-bach/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nguyenbh.github.io/authors/nguyen-bach/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/nguyen-bach/index.xml" rel="self" type="application/rss+xml" />
     <description>Nguyen Bach</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
       <title>Nguyen Bach</title>
-      <link>https://nguyenbh.github.io//authors/nguyen-bach/</link>
+      <link>https://nguyenbh.github.io/authors/nguyen-bach/</link>
     </image>
     
     <item>
       <title>Noisy BiLSTM-Based Models for Disfluency Detection</title>
-      <link>https://nguyenbh.github.io//publication/noisy-bilstm-based-models-for-disfluency-detection/</link>
+      <link>https://nguyenbh.github.io/publication/noisy-bilstm-based-models-for-disfluency-detection/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://nguyenbh.github.io//publication/noisy-bilstm-based-models-for-disfluency-detection/</guid>
+      <guid>https://nguyenbh.github.io/publication/noisy-bilstm-based-models-for-disfluency-detection/</guid>
       <description>&lt;!-- Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page. --&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Multi-Modal Neural Machine Translation</title>
+      <link>https://nguyenbh.github.io/publication/su-2019-cvpr/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/su-2019-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alibaba Speech TranslationSystems for IWSLT 2018</title>
+      <link>https://nguyenbh.github.io/publication/alibaba-2018-iwslt/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/alibaba-2018-iwslt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The SDL Language Weaver Systems in the WMT12 Quality Estimation Shared Task</title>
+      <link>https://nguyenbh.github.io/publication/soricut-bach-wang-2012-wmt/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/soricut-bach-wang-2012-wmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TriS: A Statistical Sentence Simplifier with Log-linear Models and Margin-based Discriminative Training</title>
+      <link>https://nguyenbh.github.io/publication/bach-et-al-2011-ijcnlp-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/bach-et-al-2011-ijcnlp-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMU Haitian Creole-English Translation System for WMT 2011</title>
+      <link>https://nguyenbh.github.io/publication/hewavitharana-et-al-2011-wmt/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/hewavitharana-et-al-2011-wmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Goodness = A Method for Measuring Machine Translation Confidence</title>
+      <link>https://nguyenbh.github.io/publication/bach-huang-alonaizan-2011-acl-hlt-2011/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 -0700</pubDate>
+      <guid>https://nguyenbh.github.io/publication/bach-huang-alonaizan-2011-acl-hlt-2011/</guid>
+      <description></description>
     </item>
     
   </channel>

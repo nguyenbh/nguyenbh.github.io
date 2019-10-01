@@ -2,37 +2,189 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Nguyen Bach</title>
-    <link>https://nguyenbh.github.io//authors/</link>
-      <atom:link href="https://nguyenbh.github.io//authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nguyenbh.github.io/authors/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
       <title>Authors</title>
-      <link>https://nguyenbh.github.io//authors/</link>
+      <link>https://nguyenbh.github.io/authors/</link>
     </image>
     
     <item>
       <title>Fei Huang</title>
-      <link>https://nguyenbh.github.io//authors/fei-huang/</link>
+      <link>https://nguyenbh.github.io/authors/fei-huang/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://nguyenbh.github.io//authors/fei-huang/</guid>
+      <guid>https://nguyenbh.github.io/authors/fei-huang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Nguyen Bach</title>
-      <link>https://nguyenbh.github.io//authors/nguyen-bach/</link>
+      <link>https://nguyenbh.github.io/authors/nguyen-bach/</link>
       <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://nguyenbh.github.io//authors/nguyen-bach/</guid>
+      <guid>https://nguyenbh.github.io/authors/nguyen-bach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C.-C. Jay Kuo</title>
+      <link>https://nguyenbh.github.io/authors/c.-c.-jay-kuo/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/c.-c.-jay-kuo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kai Fan</title>
+      <link>https://nguyenbh.github.io/authors/kai-fan/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/kai-fan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuanhang Su</title>
+      <link>https://nguyenbh.github.io/authors/yuanhang-su/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/yuanhang-su/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bin Ma</title>
+      <link>https://nguyenbh.github.io/authors/bin-ma/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/bin-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bo Li</title>
+      <link>https://nguyenbh.github.io/authors/bo-li/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/bo-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boxing Chen</title>
+      <link>https://nguyenbh.github.io/authors/boxing-chen/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/boxing-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cheung-Chi Leung</title>
+      <link>https://nguyenbh.github.io/authors/cheung-chi-leung/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/cheung-chi-leung/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chongjia Ni</title>
+      <link>https://nguyenbh.github.io/authors/chongjia-ni/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/chongjia-ni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hongjie Chen</title>
+      <link>https://nguyenbh.github.io/authors/hongjie-chen/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/hongjie-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pei Zhang</title>
+      <link>https://nguyenbh.github.io/authors/pei-zhang/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/pei-zhang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rong Tong</title>
+      <link>https://nguyenbh.github.io/authors/rong-tong/</link>
+      <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/rong-tong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radu Soricut</title>
+      <link>https://nguyenbh.github.io/authors/radu-soricut/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/radu-soricut/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ziyuan Wang</title>
+      <link>https://nguyenbh.github.io/authors/ziyuan-wang/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/ziyuan-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alex Waibel</title>
+      <link>https://nguyenbh.github.io/authors/alex-waibel/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/alex-waibel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qin Gao</title>
+      <link>https://nguyenbh.github.io/authors/qin-gao/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/qin-gao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stephan Vogel</title>
+      <link>https://nguyenbh.github.io/authors/stephan-vogel/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/stephan-vogel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sanjika Hewavitharana</title>
+      <link>https://nguyenbh.github.io/authors/sanjika-hewavitharana/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/sanjika-hewavitharana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vamshi Ambati</title>
+      <link>https://nguyenbh.github.io/authors/vamshi-ambati/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/authors/vamshi-ambati/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yaser Al-Onaizan</title>
+      <link>https://nguyenbh.github.io/authors/yaser-al-onaizan/</link>
+      <pubDate>Wed, 01 Jun 2011 00:00:00 -0700</pubDate>
+      <guid>https://nguyenbh.github.io/authors/yaser-al-onaizan/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://nguyenbh.github.io//authors/admin/</link>
+      <link>https://nguyenbh.github.io/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nguyenbh.github.io//authors/admin/</guid>
+      <guid>https://nguyenbh.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I am currently a researcher at the Machine Intelligence Technology Lab, DAMO Academy, &lt;a href=&#34;https://damo.alibaba.com&#34; target=&#34;_blank&#34;&gt;Alibaba&lt;/a&gt;. My main focus is to break the language barriers across the Alibaba ecosystem.&lt;/p&gt;
 
 &lt;p&gt;My professional career is a mixed of industrial research labs and startups. Previously, I spent 2 years in &lt;a href=&#34;https://textio.com&#34; target=&#34;_blank&#34;&gt;Textio&lt;/a&gt;, a start-up of augmented writing, where I was responsible for machine learning models. I worked for Microsoft on machine learning models in wearable devices such as the &lt;a href=&#34;https://www.microsoft.com/en-us/hololens&#34; target=&#34;_blank&#34;&gt;HoloLens&lt;/a&gt; project. I was a machine translations researcher at &lt;a href=&#34;https://www.sdl.com/software-and-services/research/&#34; target=&#34;_blank&#34;&gt;SDL&lt;/a&gt;. I am actively coaching early stage startups and young engineers in Vietnam.&lt;/p&gt;

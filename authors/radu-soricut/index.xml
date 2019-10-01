@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radu Soricut | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/radu-soricut/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/radu-soricut/index.xml" rel="self" type="application/rss+xml" />
+    <description>Radu Soricut</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Radu Soricut</title>
+      <link>https://nguyenbh.github.io/authors/radu-soricut/</link>
+    </image>
+    
+    <item>
+      <title>The SDL Language Weaver Systems in the WMT12 Quality Estimation Shared Task</title>
+      <link>https://nguyenbh.github.io/publication/soricut-bach-wang-2012-wmt/</link>
+      <pubDate>Fri, 01 Jun 2012 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/soricut-bach-wang-2012-wmt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

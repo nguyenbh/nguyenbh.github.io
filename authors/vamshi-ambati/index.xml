@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vamshi Ambati | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/vamshi-ambati/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/vamshi-ambati/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vamshi Ambati</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jul 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Vamshi Ambati</title>
+      <link>https://nguyenbh.github.io/authors/vamshi-ambati/</link>
+    </image>
+    
+    <item>
+      <title>CMU Haitian Creole-English Translation System for WMT 2011</title>
+      <link>https://nguyenbh.github.io/publication/hewavitharana-et-al-2011-wmt/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/hewavitharana-et-al-2011-wmt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

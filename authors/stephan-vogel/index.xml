@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stephan Vogel | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/stephan-vogel/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/stephan-vogel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Stephan Vogel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Nov 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Stephan Vogel</title>
+      <link>https://nguyenbh.github.io/authors/stephan-vogel/</link>
+    </image>
+    
+    <item>
+      <title>TriS: A Statistical Sentence Simplifier with Log-linear Models and Margin-based Discriminative Training</title>
+      <link>https://nguyenbh.github.io/publication/bach-et-al-2011-ijcnlp-2011/</link>
+      <pubDate>Tue, 01 Nov 2011 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/bach-et-al-2011-ijcnlp-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CMU Haitian Creole-English Translation System for WMT 2011</title>
+      <link>https://nguyenbh.github.io/publication/hewavitharana-et-al-2011-wmt/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/hewavitharana-et-al-2011-wmt/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
