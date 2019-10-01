@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io//publication_types/1/</link>
+      <atom:link href="https://nguyenbh.github.io//publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>1</title>
+      <link>https://nguyenbh.github.io//publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Noisy BiLSTM-Based Models for Disfluency Detection</title>
+      <link>https://nguyenbh.github.io//publication/noisy-bilstm-based-models-for-disfluency-detection/</link>
+      <pubDate>Thu, 19 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io//publication/noisy-bilstm-based-models-for-disfluency-detection/</guid>
+      <description>&lt;!-- Further details on your publication can be written here using *Markdown* for formatting. This text will be displayed on the Publication Detail page. --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
