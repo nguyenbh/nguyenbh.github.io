@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lev Cherkashin | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/lev-cherkashin/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/lev-cherkashin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lev Cherkashin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Dec 2016 00:00:00 -0800</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Lev Cherkashin</title>
+      <link>https://nguyenbh.github.io/authors/lev-cherkashin/</link>
+    </image>
+    
+    <item>
+      <title>Eye Tracking Using Video Information and Electrooculography Information</title>
+      <link>https://nguyenbh.github.io/publication/eye-tracking-uspto-2016/</link>
+      <pubDate>Fri, 23 Dec 2016 00:00:00 -0800</pubDate>
+      <guid>https://nguyenbh.github.io/publication/eye-tracking-uspto-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
