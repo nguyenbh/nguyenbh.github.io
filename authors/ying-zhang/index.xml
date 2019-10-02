@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ying Zhang | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/ying-zhang/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/ying-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ying Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2009 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Ying Zhang</title>
+      <link>https://nguyenbh.github.io/authors/ying-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Babel: Towards Context-Aware Machine Translation in Virtual Worlds</title>
+      <link>https://nguyenbh.github.io/publication/zhang-bach-2009-mt-summit/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 -0700</pubDate>
+      <guid>https://nguyenbh.github.io/publication/zhang-bach-2009-mt-summit/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

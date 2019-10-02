@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/publication_types/4/</link>
+      <atom:link href="https://nguyenbh.github.io/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 -0800</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>4</title>
+      <link>https://nguyenbh.github.io/publication_types/4/</link>
+    </image>
+    
+    <item>
+      <title>A Survey on Relation Extraction</title>
+      <link>https://nguyenbh.github.io/publication/bach-badaskar-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 -0800</pubDate>
+      <guid>https://nguyenbh.github.io/publication/bach-badaskar-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

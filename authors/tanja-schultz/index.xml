@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tanja Schultz | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/tanja-schultz/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/tanja-schultz/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tanja Schultz</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2009 00:00:00 -0700</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Tanja Schultz</title>
+      <link>https://nguyenbh.github.io/authors/tanja-schultz/</link>
+    </image>
+    
+    <item>
+      <title>Incremental Adaptation of Speech-to-Speech Translation</title>
+      <link>https://nguyenbh.github.io/publication/bach-et-al-2009-naaclhlt-09-short/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 -0700</pubDate>
+      <guid>https://nguyenbh.github.io/publication/bach-et-al-2009-naaclhlt-09-short/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

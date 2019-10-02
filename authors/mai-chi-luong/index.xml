@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mai Chi Luong | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/mai-chi-luong/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/mai-chi-luong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mai Chi Luong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Mai Chi Luong</title>
+      <link>https://nguyenbh.github.io/authors/mai-chi-luong/</link>
+    </image>
+    
+    <item>
+      <title>Quantitative Analysis and Synthesis of Syllabic Tones in Vietnamese</title>
+      <link>https://nguyenbh.github.io/publication/mixdorff-et-al-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/mixdorff-et-al-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

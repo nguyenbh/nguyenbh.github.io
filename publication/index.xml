@@ -85,5 +85,53 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Source-side Dependency Tree Reordering Models with Subtree Movements and Constraints</title>
+      <link>https://nguyenbh.github.io/publication/bach-gao-vogel-2009-mt-summit/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 -0700</pubDate>
+      <guid>https://nguyenbh.github.io/publication/bach-gao-vogel-2009-mt-summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Virtual Babel: Towards Context-Aware Machine Translation in Virtual Worlds</title>
+      <link>https://nguyenbh.github.io/publication/zhang-bach-2009-mt-summit/</link>
+      <pubDate>Sat, 01 Aug 2009 00:00:00 -0700</pubDate>
+      <guid>https://nguyenbh.github.io/publication/zhang-bach-2009-mt-summit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cohesive Constraints in A Beam Search Phrase-based Decoder</title>
+      <link>https://nguyenbh.github.io/publication/bach-vogel-cherry-2009-naaclhlt-09-short/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 -0700</pubDate>
+      <guid>https://nguyenbh.github.io/publication/bach-vogel-cherry-2009-naaclhlt-09-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Incremental Adaptation of Speech-to-Speech Translation</title>
+      <link>https://nguyenbh.github.io/publication/bach-et-al-2009-naaclhlt-09-short/</link>
+      <pubDate>Mon, 01 Jun 2009 00:00:00 -0700</pubDate>
+      <guid>https://nguyenbh.github.io/publication/bach-et-al-2009-naaclhlt-09-short/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Survey on Relation Extraction</title>
+      <link>https://nguyenbh.github.io/publication/bach-badaskar-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 -0800</pubDate>
+      <guid>https://nguyenbh.github.io/publication/bach-badaskar-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantitative Analysis and Synthesis of Syllabic Tones in Vietnamese</title>
+      <link>https://nguyenbh.github.io/publication/mixdorff-et-al-2003/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/mixdorff-et-al-2003/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
