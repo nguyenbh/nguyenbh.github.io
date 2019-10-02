@@ -62,10 +62,18 @@
     </item>
     
     <item>
-      <title>Goodness = A Method for Measuring Machine Translation Confidence</title>
+      <title>Goodness: A Method for Measuring Machine Translation Confidence</title>
       <link>https://nguyenbh.github.io/publication/bach-huang-alonaizan-2011-acl-hlt-2011/</link>
       <pubDate>Wed, 01 Jun 2011 00:00:00 -0700</pubDate>
       <guid>https://nguyenbh.github.io/publication/bach-huang-alonaizan-2011-acl-hlt-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Semi-Supervised Word Alignment Algorithm with Partial Manual Alignments</title>
+      <link>https://nguyenbh.github.io/publication/gao-bach-vogel-2010-wmt/</link>
+      <pubDate>Thu, 01 Jul 2010 00:00:00 -0700</pubDate>
+      <guid>https://nguyenbh.github.io/publication/gao-bach-vogel-2010-wmt/</guid>
       <description></description>
     </item>
     
