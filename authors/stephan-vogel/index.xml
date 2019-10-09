@@ -60,5 +60,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Improving Word Alignment with Language Model Based Confidence Scores</title>
+      <link>https://nguyenbh.github.io/publication/bach-gao-vogel-2008-wmt/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/bach-gao-vogel-2008-wmt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Improvements in the CMU Large Scale Chinese-English SMT System</title>
+      <link>https://nguyenbh.github.io/publication/hildebrand-et-al-2008-acl-short/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/hildebrand-et-al-2008-acl-short/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

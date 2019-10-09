@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Almut Silja Hildebrand | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/almut-silja-hildebrand/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/almut-silja-hildebrand/index.xml" rel="self" type="application/rss+xml" />
+    <description>Almut Silja Hildebrand</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Almut Silja Hildebrand</title>
+      <link>https://nguyenbh.github.io/authors/almut-silja-hildebrand/</link>
+    </image>
+    
+    <item>
+      <title>Recent Improvements in the CMU Large Scale Chinese-English SMT System</title>
+      <link>https://nguyenbh.github.io/publication/hildebrand-et-al-2008-acl-short/</link>
+      <pubDate>Sun, 01 Jun 2008 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/hildebrand-et-al-2008-acl-short/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
