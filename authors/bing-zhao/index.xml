@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bing Zhao | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/bing-zhao/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/bing-zhao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Bing Zhao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Apr 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Bing Zhao</title>
+      <link>https://nguyenbh.github.io/authors/bing-zhao/</link>
+    </image>
+    
+    <item>
+      <title>A Log-Linear Block Transliteration Model based on Bi-Stream HMMs</title>
+      <link>https://nguyenbh.github.io/publication/zhao-et-al-2007-main/</link>
+      <pubDate>Sun, 01 Apr 2007 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/zhao-et-al-2007-main/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

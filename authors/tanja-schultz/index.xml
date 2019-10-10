@@ -20,5 +20,21 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Handling OOV Words in Arabic ASR Via Flexible Morphological Constraints</title>
+      <link>https://nguyenbh.github.io/publication/bach-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/bach-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The CMU TransTac 2007 Eyes-free and Hands-free Two-way Speech-to-Speech Translation System</title>
+      <link>https://nguyenbh.github.io/publication/iwslt-07-transtac/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/iwslt-07-transtac/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
