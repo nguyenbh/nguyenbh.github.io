@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ajay Nagesh | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/ajay-nagesh/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/ajay-nagesh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ajay Nagesh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 17 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Ajay Nagesh</title>
+      <link>https://nguyenbh.github.io/authors/ajay-nagesh/</link>
+    </image>
+    
+    <item>
+      <title>FINDINGS OF THE IWSLT 2020 EVALUATION CAMPAIGN</title>
+      <link>https://nguyenbh.github.io/publication/iwslt-2020/</link>
+      <pubDate>Wed, 17 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/iwslt-2020/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
