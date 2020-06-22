@@ -5,12 +5,21 @@
     <link>https://nguyenbh.github.io/authors/nguyen-bach/</link>
       <atom:link href="https://nguyenbh.github.io/authors/nguyen-bach/index.xml" rel="self" type="application/rss+xml" />
     <description>Nguyen Bach</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 19 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
       <title>Nguyen Bach</title>
       <link>https://nguyenbh.github.io/authors/nguyen-bach/</link>
     </image>
+    
+    <item>
+      <title>Structure-Level Knowledge Distillation For Multilingual Sequence Labeling</title>
+      <link>https://nguyenbh.github.io/publication/wang-et-al-2020-acl/</link>
+      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/wang-et-al-2020-acl/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Noisy BiLSTM-Based Models for Disfluency Detection</title>
