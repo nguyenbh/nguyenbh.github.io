@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -18,7 +18,7 @@
   </url>
   
   <url>
-    <loc>https://nguyenbh.github.io/</loc>
+    <loc>https://nguyenbh.github.io/authors/kewei-tu/</loc>
     <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,7 +28,17 @@
   </url>
   
   <url>
+    <loc>https://nguyenbh.github.io/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://nguyenbh.github.io/publication/noisy-bilstm-based-models-for-disfluency-detection/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nguyenbh.github.io/publication/wang-et-al-2020-acl/</loc>
     <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url>
   
@@ -39,6 +49,21 @@
   
   <url>
     <loc>https://nguyenbh.github.io/publication/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nguyenbh.github.io/authors/tao-wang/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nguyenbh.github.io/authors/xinyu-wang/</loc>
+    <lastmod>2019-09-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nguyenbh.github.io/authors/yong-jiang/</loc>
     <lastmod>2019-09-19T00:00:00+00:00</lastmod>
   </url>
   
