@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zechuan Hu | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/zechuan-hu/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/zechuan-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zechuan Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Zechuan Hu</title>
+      <link>https://nguyenbh.github.io/authors/zechuan-hu/</link>
+    </image>
+    
+    <item>
+      <title>An Investigation of Potential Function Designs for Neural CRF</title>
+      <link>https://nguyenbh.github.io/publication/hu-et-al-2020-emnlp-findings/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/hu-et-al-2020-emnlp-findings/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
