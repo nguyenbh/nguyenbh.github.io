@@ -5,12 +5,21 @@
     <link>https://nguyenbh.github.io/authors/yong-jiang/</link>
       <atom:link href="https://nguyenbh.github.io/authors/yong-jiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yong Jiang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
       <title>Yong Jiang</title>
       <link>https://nguyenbh.github.io/authors/yong-jiang/</link>
     </image>
+    
+    <item>
+      <title>AIN: Fast and Accurate Sequence Labeling with Approximate Inference Network</title>
+      <link>https://nguyenbh.github.io/publication/wang-et-al-2020-emnlp/</link>
+      <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/wang-et-al-2020-emnlp/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Structure-Level Knowledge Distillation For Multilingual Sequence Labeling</title>

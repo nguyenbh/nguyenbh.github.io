@@ -1,0 +1,18 @@
+@inproceedings{wang-etal-2020-ain,
+    title = "{AIN}: Fast and Accurate Sequence Labeling with Approximate Inference Network",
+    author = "Wang, Xinyu  and
+      Jiang, Yong  and
+      Bach, Nguyen  and
+      Wang, Tao  and
+      Huang, Zhongqiang  and
+      Huang, Fei  and
+      Tu, Kewei",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.emnlp-main.485",
+    pages = "6019--6026",
+    abstract = "The linear-chain Conditional Random Field (CRF) model is one of the most widely-used neural sequence labeling approaches. Exact probabilistic inference algorithms such as the forward-backward and Viterbi algorithms are typically applied in training and prediction stages of the CRF model. However, these algorithms require sequential computation that makes parallelization impossible. In this paper, we propose to employ a parallelizable approximate variational inference algorithm for the CRF model. Based on this algorithm, we design an approximate inference network that can be connected with the encoder of the neural CRF model to form an end-to-end network, which is amenable to parallelization for faster training and prediction. The empirical results show that our proposed approaches achieve a 12.7-fold improvement in decoding speed with long sentences and a competitive accuracy compared with the traditional CRF approach.",
+}

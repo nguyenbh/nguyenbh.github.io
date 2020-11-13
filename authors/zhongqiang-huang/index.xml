@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tao Wang | Nguyen Bach</title>
-    <link>https://nguyenbh.github.io/authors/tao-wang/</link>
-      <atom:link href="https://nguyenbh.github.io/authors/tao-wang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tao Wang</description>
+    <title>Zhongqiang Huang | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/zhongqiang-huang/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/zhongqiang-huang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhongqiang Huang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
-      <title>Tao Wang</title>
-      <link>https://nguyenbh.github.io/authors/tao-wang/</link>
+      <title>Zhongqiang Huang</title>
+      <link>https://nguyenbh.github.io/authors/zhongqiang-huang/</link>
     </image>
     
     <item>
@@ -17,15 +17,6 @@
       <link>https://nguyenbh.github.io/publication/wang-et-al-2020-emnlp/</link>
       <pubDate>Wed, 11 Nov 2020 00:00:00 +0000</pubDate>
       <guid>https://nguyenbh.github.io/publication/wang-et-al-2020-emnlp/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Structure-Level Knowledge Distillation For Multilingual Sequence Labeling</title>
-      <link>https://nguyenbh.github.io/publication/wang-et-al-2020-acl/</link>
-      <pubDate>Thu, 18 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://nguyenbh.github.io/publication/wang-et-al-2020-acl/</guid>
       <description>&lt;!-- raw HTML omitted --&gt;
 </description>
     </item>
