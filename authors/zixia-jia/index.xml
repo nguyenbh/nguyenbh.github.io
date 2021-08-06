@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zixia Jia | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/zixia-jia/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/zixia-jia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zixia Jia</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Zixia Jia</title>
+      <link>https://nguyenbh.github.io/authors/zixia-jia/</link>
+    </image>
+    
+    <item>
+      <title>Structural Knowledge Distillation: Tractably Distilling Information for Structured Predictor</title>
+      <link>https://nguyenbh.github.io/publication/wang-et-al-2021-acl-structurekd/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/wang-et-al-2021-acl-structurekd/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
