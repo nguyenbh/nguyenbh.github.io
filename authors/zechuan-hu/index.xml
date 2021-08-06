@@ -5,12 +5,30 @@
     <link>https://nguyenbh.github.io/authors/zechuan-hu/</link>
       <atom:link href="https://nguyenbh.github.io/authors/zechuan-hu/index.xml" rel="self" type="application/rss+xml" />
     <description>Zechuan Hu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 11 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
       <title>Zechuan Hu</title>
       <link>https://nguyenbh.github.io/authors/zechuan-hu/</link>
     </image>
+    
+    <item>
+      <title>Multi-View Cross-Lingual Structured Prediction with Minimum Supervision</title>
+      <link>https://nguyenbh.github.io/publication/hu-et-al-2021-acl-multiview/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/hu-et-al-2021-acl-multiview/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Risk Minimization for Zero-shot Sequence Labeling</title>
+      <link>https://nguyenbh.github.io/publication/hu-et-al-2021-acl-risk/</link>
+      <pubDate>Mon, 02 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/hu-et-al-2021-acl-risk/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>An Investigation of Potential Function Designs for Neural CRF</title>
