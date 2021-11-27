@@ -5,12 +5,21 @@
     <link>https://nguyenbh.github.io/authors/yong-jiang/</link>
       <atom:link href="https://nguyenbh.github.io/authors/yong-jiang/index.xml" rel="self" type="application/rss+xml" />
     <description>Yong Jiang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 02 Aug 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
       <title>Yong Jiang</title>
       <link>https://nguyenbh.github.io/authors/yong-jiang/</link>
     </image>
+    
+    <item>
+      <title>MuVER: Improving First-Stage Entity Retrieval with Multi-View Entity Representations</title>
+      <link>https://nguyenbh.github.io/publication/ma-et-al-2021-emnlp/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/ma-et-al-2021-emnlp/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Automated Concatenation of Embeddings for Structured Prediction</title>
