@@ -1,0 +1,54 @@
++++
+# A Skills section created with the Featurette widget.
+widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
+
+title = "Skills"
+subtitle = ""
+
+# Showcase personal skills or business features.
+#
+# Add/remove as many `[[feature]]` blocks below as you like.
+#
+# For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
+
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Machine translation"
+  description = "Build MT models from end to end"
+
+[[feature]]
+  icon = "comments"
+  icon_pack = "fas"
+  name = "Speech & language processing"
+  description = "Can understand my kids"
+
+
+[[feature]]
+  icon = "code"
+  icon_pack = "fas"
+  name = "Software engineering"
+  description = "Enough to get things done timely"
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Machine learning"
+  description = "Be able to explain deep learning to my grandma"
+
+[[feature]]
+  icon = "snowplow"
+  icon_pack = "fas"
+  name = "Data munging"
+  description = "Extract gold from dirt"
+
+[[feature]]
+  icon = "angellist"
+  icon_pack = "fab"
+  name = "Product development"
+  description = "Turn research ideas to business opportunities"
+
++++
