@@ -5,12 +5,21 @@
     <link>https://nguyenbh.github.io/publication_types/1/</link>
       <atom:link href="https://nguyenbh.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
       <title>1</title>
       <link>https://nguyenbh.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning</title>
+      <link>https://nguyenbh.github.io/publication/xie-et-al-2022-neurips/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/xie-et-al-2022-neurips/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>MuVER: Improving First-Stage Entity Retrieval with Multi-View Entity Representations</title>
@@ -270,15 +279,6 @@
       <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
       <guid>https://nguyenbh.github.io/publication/mixdorff-et-al-2003/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning</title>
-      <link>https://nguyenbh.github.io/publication/xie-et-al-2022-neurips/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nguyenbh.github.io/publication/xie-et-al-2022-neurips/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;
-</description>
     </item>
     
   </channel>
