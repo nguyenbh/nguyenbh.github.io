@@ -5,12 +5,20 @@
     <link>https://nguyenbh.github.io/publication_types/8/</link>
       <atom:link href="https://nguyenbh.github.io/publication_types/8/index.xml" rel="self" type="application/rss+xml" />
     <description>8</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 23 Dec 2016 00:00:00 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 29 Jun 2022 00:00:00 -0700</lastBuildDate>
     <image>
       <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
       <title>8</title>
       <link>https://nguyenbh.github.io/publication_types/8/</link>
     </image>
+    
+    <item>
+      <title>Image paragraph generator</title>
+      <link>https://nguyenbh.github.io/publication/image-paragraph-generator-2022/</link>
+      <pubDate>Wed, 29 Jun 2022 00:00:00 -0700</pubDate>
+      <guid>https://nguyenbh.github.io/publication/image-paragraph-generator-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Eye Tracking Using Video Information and Electrooculography Information</title>
