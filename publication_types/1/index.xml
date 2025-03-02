@@ -5,12 +5,30 @@
     <link>https://nguyenbh.github.io/publication_types/1/</link>
       <atom:link href="https://nguyenbh.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
       <title>1</title>
       <link>https://nguyenbh.github.io/publication_types/1/</link>
     </image>
+    
+    <item>
+      <title>Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs</title>
+      <link>https://nguyenbh.github.io/publication/phi4mm-2025/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/phi4mm-2025/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone</title>
+      <link>https://nguyenbh.github.io/publication/phi3-2024/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/phi3-2024/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
     
     <item>
       <title>Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning</title>

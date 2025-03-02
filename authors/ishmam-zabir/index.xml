@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ishmam Zabir | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/ishmam-zabir/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/ishmam-zabir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ishmam Zabir</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Ishmam Zabir</title>
+      <link>https://nguyenbh.github.io/authors/ishmam-zabir/</link>
+    </image>
+    
+    <item>
+      <title>Phi-4-Mini Technical Report: Compact yet Powerful Multimodal Language Models via Mixture-of-LoRAs</title>
+      <link>https://nguyenbh.github.io/publication/phi4mm-2025/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/phi4mm-2025/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

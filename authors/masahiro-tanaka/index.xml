@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Masahiro Tanaka | Nguyen Bach</title>
+    <link>https://nguyenbh.github.io/authors/masahiro-tanaka/</link>
+      <atom:link href="https://nguyenbh.github.io/authors/masahiro-tanaka/index.xml" rel="self" type="application/rss+xml" />
+    <description>Masahiro Tanaka</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 30 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nguyenbh.github.io/img/NguyenBach.jpg</url>
+      <title>Masahiro Tanaka</title>
+      <link>https://nguyenbh.github.io/authors/masahiro-tanaka/</link>
+    </image>
+    
+    <item>
+      <title>Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone</title>
+      <link>https://nguyenbh.github.io/publication/phi3-2024/</link>
+      <pubDate>Fri, 30 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>https://nguyenbh.github.io/publication/phi3-2024/</guid>
+      <description>&lt;!-- raw HTML omitted --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
